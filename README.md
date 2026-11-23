@@ -111,7 +111,3 @@ Key results from the paper (MacBook Pro M4, 24 GB RAM, localhost, averaged over 
   url       = {https://doi.org/10.1145/3847192.3847365}
 }
 ```
-
-## Disclaimer
-
-This is a research prototype and has not been audited for production use. The bundled TLS keys and certificates are for local testing only. Do not reuse them.
